@@ -252,12 +252,13 @@ Voter dissatisfaction
 Protest voting
 
 Lack of strong candidates
+\n
 
 <img width="938" height="578" alt="margin_distribution" src="https://github.com/user-attachments/assets/cc691b5e-55e7-45d5-afe0-3ede5249f2a3" />
-
+\n
 
 <img width="698" height="458" alt="seat_share_alliance" src="https://github.com/user-attachments/assets/4cf6f468-6c95-4325-881a-b3d645018738" />
-
+\n
 
 <img width="1173" height="578" alt="top15_winning_parties" src="https://github.com/user-attachments/assets/5911f15d-f608-436e-84a3-e280c0652d01" />
 
