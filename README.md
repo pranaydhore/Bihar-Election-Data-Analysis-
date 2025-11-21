@@ -253,6 +253,15 @@ Protest voting
 
 Lack of strong candidates
 
+<img width="938" height="578" alt="margin_distribution" src="https://github.com/user-attachments/assets/cc691b5e-55e7-45d5-afe0-3ede5249f2a3" />
+
+
+<img width="698" height="458" alt="seat_share_alliance" src="https://github.com/user-attachments/assets/4cf6f468-6c95-4325-881a-b3d645018738" />
+
+
+<img width="1173" height="578" alt="top15_winning_parties" src="https://github.com/user-attachments/assets/5911f15d-f608-436e-84a3-e280c0652d01" />
+
+
 ⭐ 6. Power BI Dashboard Explanation
 
 The Power BI dashboards were designed to provide interactive insights into:
@@ -298,6 +307,12 @@ Sum of postal votes
 Sum of vote percentage
 
 These dashboards allow non-technical stakeholders to explore the data visually.
+
+<img width="1270" height="721" alt="Screenshot 2025-11-21 233448 - Copy" src="https://github.com/user-attachments/assets/2d5a0da7-68b2-4783-8080-dcf74551096c" />
+
+\n
+
+<img width="1272" height="714" alt="Screenshot 2025-11-21 233522" src="https://github.com/user-attachments/assets/accf069c-47db-4ec4-be7b-8f930af4f6c2" />
 
 ⭐ 7. Machine Learning Analysis
 
@@ -452,27 +467,9 @@ Vote concentration
 
 Party presence
 
-⭐ 9. Folder Structure
 
-A clean and structured repository helps others understand and run your project.
 
-📁 Bihar-Election-Analysis/
-│── data/
-│   ├── bihar_election_results.csv
-│   ├── bihar_constituency_results.csv
-│   ├── closest_contests.csv
-│   ├── biggest_wins.csv
-│   ├── feature_importances_rf.csv
-│
-│── notebooks/
-│   └── analysis.ipynb
-│
-│── dashboard/
-│   └── Political.pbix
-│
-│── README.md   (this file)
-
-⭐ 10. Installation & Setup Instructions
+⭐ 9. Installation & Setup Instructions
 
 To reproduce the full project:
 
@@ -495,7 +492,7 @@ Open:
 
 dashboard/Political.pbix
 
-⭐ 11. Limitations
+⭐ 10. Limitations
 
 No dataset or model is perfect.
 
@@ -515,7 +512,7 @@ Additional demographic variables could improve predictions.
 
 Trends would be stronger with multi-year data.
 
-⭐ 12. Future Work
+⭐ 11. Future Work
 
 Possible expansions:
 
@@ -544,11 +541,7 @@ Public election datasets
 Machine learning community resources
 
 Special thanks to mentors, peer reviewers, and open-source contributors.
-<img width="1270" height="721" alt="Screenshot 2025-11-21 233448 - Copy" src="https://github.com/user-attachments/assets/2d5a0da7-68b2-4783-8080-dcf74551096c" />
 
-\n
-
-<img width="1272" height="714" alt="Screenshot 2025-11-21 233522" src="https://github.com/user-attachments/assets/accf069c-47db-4ec4-be7b-8f930af4f6c2" />
 
 
 
