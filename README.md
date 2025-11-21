@@ -546,7 +546,10 @@ Machine learning community resources
 Special thanks to mentors, peer reviewers, and open-source contributors.
 <img width="1270" height="721" alt="Screenshot 2025-11-21 233448 - Copy" src="https://github.com/user-attachments/assets/2d5a0da7-68b2-4783-8080-dcf74551096c" />
 
-<img width="1270" height="721" alt="Screenshot 2025-11-21 233448" src="https://github.com/user-attachments/assets/0b94d1f9-95a3-4d8e-b1f5-62de731da805" />
+\n
+
+<img width="1272" height="714" alt="Screenshot 2025-11-21 233522" src="https://github.com/user-attachments/assets/accf069c-47db-4ec4-be7b-8f930af4f6c2" />
+
 
 
 #DataAnalytics #MachineLearning #PowerBI #EDA #Python #ElectionAnalysis 
